@@ -8,12 +8,16 @@ Precise detection of cross-linking induced termination sites
   * [pandas] (>= v 0.24.2)
   * [statsmodels] (>= v 0.10.1)
   * [scikit-learn] (>= v 0.20.4)
+  * [pysam] (>= v 0.24.1)
+  * [pytest] (>= 8.4.2)
   
   [numpy]: https://pypi.org/project/numpy/
   [scipy]: https://pypi.org/project/scipy/
   [pandas]: https://pypi.org/project/pandas/
   [statsmodels]: https://pypi.org/project/statsmodels/
   [scikit-learn]: https://pypi.org/project/scikit-learn/
+  [pysam]: https://pypi.org/project/pysam/
+  [pytest]: https://pypi.org/project/pytest/
 
 ## Installation
 
